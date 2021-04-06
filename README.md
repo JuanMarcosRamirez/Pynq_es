@@ -10,4 +10,6 @@
 
 ## Configuración de la placa
 
+ewfwefwe
+
 ![Demo image](https://github.com/JuanMarcosRamirez/Pynq_es/blob/master/images/pynqz2_setup.png?raw=true "Board setting")
