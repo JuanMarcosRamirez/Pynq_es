@@ -9,3 +9,5 @@
 * Memoria Micro SD con la distribución de Linux precargada
 
 ## Configuración de la placa
+
+![Demo image](https://github.com/JuanMarcosRamirez/Pynq_es/blob/master/images/pynqz2_setup.png?raw=true "Board setting")
